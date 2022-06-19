@@ -1,0 +1,17 @@
+.cover__item{
+ background-image: url(../../../images/__background.png);
+ min-height: 740px;
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ padding: 0;
+ box-sizing: border-box;
+ background-size: cover;
+ position: relative;
+ z-index: 1;
+ margin: 0 auto;
+}
+
+.cover__item::before{
+  
+}
