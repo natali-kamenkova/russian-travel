@@ -2,4 +2,6 @@
   max-width: 100%;
   margin: 0 auto;
   background-color: #2a2c2f;
+  box-sizing: border-box;
+  padding-bottom: 24px;
 }
