@@ -1,7 +1,35 @@
 .cover{
   max-width: 1184px;
-  min-width: 320px;
   margin: 0 auto;
   max-height: 740px;
   margin-bottom: 92px;
+}
+
+@media screen and (max-width: 1024px) {
+  .cover{
+    max-width: 1024px;
+    min-width: 320px;
+    margin: 0 auto;
+    max-height: 640px;
+    margin-bottom: 92px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .cover{
+    max-width: 768px;
+    min-width: 320px;
+    margin: 0 auto;
+    max-height: 480px;
+    margin-bottom: 88px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .cover{
+    max-width: 320px;
+    margin: 0 auto;
+    height: 200px;
+    margin-bottom: 64px;
+  }
 }

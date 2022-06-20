@@ -7,3 +7,12 @@
   margin: 0 auto;
   color: #ffffff;
 }
+
+@media screen and (max-width: 320px) {
+  .cover__subtitle{
+    max-width: 288px;
+    max-height: 48px;
+    font-size: 14px;
+    line-height: 16px;
+  }
+}

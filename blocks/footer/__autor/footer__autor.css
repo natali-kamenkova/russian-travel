@@ -5,3 +5,10 @@
   line-height: 16px;
   color: #ffffff;
 }
+
+@media screen and (max-width: 320px) {
+  .footer__autor{
+    box-sizing: border-box;
+    padding-top: 48px;
+  }
+}
