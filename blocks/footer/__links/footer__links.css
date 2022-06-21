@@ -17,10 +17,19 @@
   }
 }
 
+@media screen and (max-width: 550px) {
+  .footer__links{
+    display: grid;
+    grid-template-columns: 186px;
+
+
+  }
+}
+
 @media screen and (max-width: 320px) {
   .footer__links{
     max-width: 186px;
-    height: 310px;
+    min-height: 310px;
     margin-left: 16px;
     display: grid;
     grid-template-columns: 186px;

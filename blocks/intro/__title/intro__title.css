@@ -12,6 +12,7 @@
    max-width: 720px; 
    min-height: max-content;
    margin: 0 auto;
+   margin-bottom: 40px;
   }
   
 }
@@ -22,6 +23,7 @@
     margin: 0 auto;
     font-size: 32px;
     line-height: 35px;
+    margin-bottom: 40px;
   }
   
 }

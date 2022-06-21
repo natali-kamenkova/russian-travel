@@ -3,3 +3,12 @@
   margin: 0;
 }
 
+@media screen and (max-width: 320px){
+  .place__paragraph{
+    max-width: 288px;
+    margin: 0 auto;
+    margin-bottom: 32px;
+  }
+}
+
+

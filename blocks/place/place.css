@@ -37,13 +37,13 @@
 
 @media screen and (max-width: 320px) {
   .place{
-    grid-template-columns: 320px;
-    row-gap: 32px;
+    max-width: 320px;
+    display: block;
     margin-bottom: 50px;
-  }
+  }    
 }
 
-@media screen and (max-width: px) {
+@media screen and (max-width: 320px) {
   .place:last-of-type{
     margin-bottom: 66px; 
   }

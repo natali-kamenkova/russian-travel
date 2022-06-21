@@ -10,3 +10,10 @@
 .footer__link:last-of-type{
   margin: 0;
 }
+
+@media screen and (max-width: 320px) {
+  .footer__link{
+    margin: 0;
+    max-width: fit-content;
+  }
+}
