@@ -1,4 +1,4 @@
-.heder__lang-link {
+.header__lang-link {
   color: #ffffff;
   text-decoration: none;
   font-weight: 400;
@@ -8,8 +8,12 @@
   height: 28px;
 }
 
+.header__lang-link:hover{
+  opacity: 0.8;
+}
+
 @media screen and (max-width: 320px) {
-  .heder__lang-link {
+  .header__lang-link {
     max-width: 22px;
     height: 20px;
   }
