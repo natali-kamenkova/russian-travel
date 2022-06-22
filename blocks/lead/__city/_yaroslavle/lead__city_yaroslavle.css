@@ -1,0 +1,23 @@
+.lead__city_yaroslavle{
+  width: 73.61px;
+  position: absolute;
+  top: 47.59%;
+  left: 30.2%;
+}
+
+@media screen and (max-width: 1024px) {
+  .lead__city_yaroslavle{
+    width: 69.42px;
+
+  }
+}@media screen and (max-width: 768px) {
+  .lead__city_yaroslavle{
+    width: 57.45px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .lead__city_yaroslavle{
+    width: 23.94px;
+  }
+}

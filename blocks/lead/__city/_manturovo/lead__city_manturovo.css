@@ -1,0 +1,24 @@
+.lead__city_manturovo{
+  width: 75.44px;
+  position: absolute;
+  top: 36.22%;
+  left: 36.87%;
+}
+
+@media screen and (max-width: 1024px) {
+  .lead__city_manturovo{
+    width: 71.14px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .lead__city_manturovo{
+    max-width: 58.88px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .lead__city_manturovo{
+    max-width: 24.53px;
+  }
+}

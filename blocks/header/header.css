@@ -1,6 +1,5 @@
-.header{
+.header {
   max-width: 1184px;
-  min-height: 52px;
   display: flex;
   justify-content: space-between;
   align-items: flex-end;
@@ -9,22 +8,22 @@
 }
 
 @media screen and (max-width: 1024px) {
-  .header{
+  .header {
     max-width: 958px;
 
   }
-  
+
 }
 
 @media screen and (max-width: 768px) {
-  .header{
+  .header {
     max-width: 720px;
+    height:max-content;
   }
 }
 
 @media screen and (max-width: 320px) {
-  .header{
+  .header {
     max-width: 288px;
-    min-height: 42px;
   }
 }

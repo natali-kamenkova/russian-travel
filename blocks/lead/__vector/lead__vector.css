@@ -1,0 +1,13 @@
+.lead__vector{
+  position: absolute;
+  top: 20.81%;
+  left: 4.217%;
+  max-width: 90.04%;
+
+}
+/*@media screen and (max-width: 1024px) {
+  .lead__vector{
+    top: 121.29px;
+    left: 39.14px;
+  }
+}*/

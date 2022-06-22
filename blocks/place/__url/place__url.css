@@ -1,6 +1,5 @@
-.place__url{
+.place__url {
   max-width: 456px;
-  max-height: 12px;
   font-weight: 400;
   font-size: 12px;
   line-height: 12px;
@@ -11,11 +10,11 @@
   margin-bottom: 12px;
 }
 
-@media screen and (max-width: 320px){
-  .place__url{
+@media screen and (max-width: 320px) {
+  .place__url {
     max-width: 288px;
     margin: 0 auto;
     margin-bottom: 12px;
-    
+
   }
 }

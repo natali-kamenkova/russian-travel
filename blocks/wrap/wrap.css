@@ -3,10 +3,22 @@
   margin: 0 auto;
 }
 
+@media screen and (max-width: 1024px) {
+  .wrap{
+    max-width: 928px;
+  }
+}
+
+@media screen and (max-width: 928px) {
+  .wrap{
+    width: 100%;
+  }
+}
+/*
 @media screen and (max-width: 320px) {
   .wrap{
     max-width: 288px;
     margin: 0 auto;
   }
   
-}
+}*/

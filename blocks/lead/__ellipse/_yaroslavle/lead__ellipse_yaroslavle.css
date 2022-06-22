@@ -1,0 +1,40 @@
+.lead__ellipse_yaroslavle{
+  position: absolute;
+  top: 47.2%;
+  left: 26.76%;
+}
+
+@media screen and (max-width: 1024px) {
+  .lead__ellipse_yaroslavle{
+    top: 46%;
+    left: 26.9%;
+    
+  }
+}
+
+
+@media screen and (max-width: 768px) {
+  .lead__ellipse_yaroslavle{
+    top: 46%;
+    left: 27.42%;
+    
+  }
+}
+
+@media screen and (max-width: 550px) {
+  .lead__ellipse_yaroslavle{
+    top: 46%;
+    left: 27%;
+    
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .lead__ellipse_yaroslavle{
+    top: 46%;
+    left: 26.5%;
+    
+  }
+}
+
+

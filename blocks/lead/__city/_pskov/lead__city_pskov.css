@@ -1,0 +1,24 @@
+.lead__city_pskov {
+  width: 39.97px;
+  position: absolute;
+  top: 38.30569%;
+  left: 2.36%;
+}
+
+@media screen and (max-width: 1024px) {
+  .lead__city_pskov {
+    width: 37.69px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .lead__city_pskov {
+    width: 31.19px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .lead__city_pskov {
+    width: 13px;
+  }
+}

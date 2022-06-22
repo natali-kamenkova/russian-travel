@@ -1,0 +1,24 @@
+.lead__city_tver{
+  width: 37.11px;
+  position: absolute;
+  top: 43.44%;
+  left: 18.5%;
+}
+
+@media screen and (max-width: 1024px) {
+  .lead__city_tver{
+    width: 35px;
+
+  }
+}@media screen and (max-width: 768px) {
+  .lead__city_tver{
+    width: 28.96px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .lead__city_tver{
+    width: 12.07px;
+  }
+}
+

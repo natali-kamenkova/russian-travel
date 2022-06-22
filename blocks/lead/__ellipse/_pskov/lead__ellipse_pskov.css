@@ -1,0 +1,13 @@
+.lead__ellipse_pskov {
+  position: absolute;
+  top: 34.9%;
+  left: 4.2%;
+}
+
+@media screen and (max-width: 375px) {
+  .lead__ellipse_pskov{
+    top: 34.9%;
+   left: 3.9%;
+  }
+}
+

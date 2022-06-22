@@ -1,0 +1,17 @@
+.lead__ellipse_novgorod{
+  position: absolute;
+  top: 20.345%;
+  left: 12.476%;
+}
+
+@media screen and (max-width: 768px) {
+ .lead__ellipse_novgorod{
+  top: 20.65%;
+ }
+}
+
+@media screen and (max-width: 500px) {
+  .lead__ellipse_novgorod{
+    top: 20.3%;
+  }
+}

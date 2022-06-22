@@ -1,4 +1,4 @@
-.footer__links{
+.footer__links {
   max-width: 1184px;
   display: flex;
   justify-content: space-between;
@@ -6,34 +6,27 @@
 }
 
 @media screen and (max-width: 1024px) {
-  .footer__links{
+  .footer__links {
     max-width: 928px;
   }
 }
 
 @media screen and (max-width: 768px) {
-  .footer__links{
+  .footer__links {
     max-width: 720px;
   }
 }
 
-@media screen and (max-width: 550px) {
-  .footer__links{
+@media screen and (max-width: 700px) {
+  .footer__links {
     display: grid;
     grid-template-columns: 186px;
-
-
   }
 }
 
 @media screen and (max-width: 320px) {
-  .footer__links{
+  .footer__links {
     max-width: 186px;
-    min-height: 310px;
     margin-left: 16px;
-    display: grid;
-    grid-template-columns: 186px;
-
-
   }
 }

@@ -1,0 +1,22 @@
+.lead__ellipse_manturovo{
+  position: absolute;
+  top: 38.05%;
+  left: 36.2%;
+}
+
+@media screen and (max-width: 768px) {
+  .lead__ellipse_manturovo{
+    
+    left: 36.5%;
+  }
+  
+
+}
+
+@media screen and (max-width: 320px) {
+  .lead__ellipse_manturovo{
+    left: 37%;
+  }
+  
+}
+
