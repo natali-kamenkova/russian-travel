@@ -1,4 +1,4 @@
-.header__lang-link_active{
+.header__lang-link_active:active{
   text-decoration: underline;
-  margin: 0;
+ /* margin: 0;*/
 }
