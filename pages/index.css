@@ -9,9 +9,6 @@
 @import url(../blocks/lead/__title/lead__title.css);
 @import url(../blocks/lead/__illustration/lead__illustration.css);
 @import url(../blocks/lead/__subtitle/lead__subtitle.css);
-@import url(../blocks/lead/__images/lead__images.css);
-@import url(../blocks/lead/__group/lead__group.css);
-@import url(../blocks/lead/__vector/lead__vector.css);
 @import url(../blocks/intro/intro.css);
 @import url(../blocks/intro/__title/intro__title.css);
 @import url(../blocks/intro/__text/intro__text.css);
@@ -44,25 +41,9 @@
 @import url(../blocks/footer/__mobile/footer__mobile.css);
 @import url(../blocks/intro/__iteam/intro__iteam.css);
 @import url(../blocks/intro/__iteam/_number/intro__iteam_number.css);
-@import url(../blocks/lead/__city/lead__city.css);
-@import url(../blocks/lead/__city/_pskov/lead__city_pskov.css);
-@import url(../blocks/lead/__ellipse/lead__ellipse.css);
-@import url(../blocks/lead/__ellipse/_pskov/lead__ellipse_pskov.css);
-@import url(../blocks/lead/__city/_novgorod/lead__city_novgorod.css);
-@import url(../blocks/lead/__ellipse/_novgorod/lead__ellipse_novgorod.css);
-@import url(../blocks/lead/__city/_tver/lead__city_tver.css);
-@import url(../blocks/lead/__ellipse/_tver/lead__ellipse_tver.css);
-@import url(../blocks/lead/__city/_yaroslavle/lead__city_yaroslavle.css);
-@import url(../blocks/lead/__ellipse/_yaroslavle/lead__ellipse_yaroslavle.css);
-@import url(../blocks/lead/__city/_manturovo/lead__city_manturovo.css);
-@import url(../blocks/lead/__ellipse/_manturovo/lead__ellipse_manturovo.css);
 @import url(../blocks/header/__lang-links/header__lang-links.css);
 @import url(../blocks/cover/__link/cover__link.css);
-@import url(../blocks/lead/__city/_kotelnich/lead__city_kotelnich.css);
-@import url(../blocks/lead/__ellipse/_kotelnich/lead__ellipse_kotelnich.css);
-@import url(../blocks/lead/__city/_glazov/lead__city_glazov.css);
-@import url(../blocks/lead/__ellipse/_glazov/lead__ellipse_glazov.css);
-@import url(../blocks/lead/__city/_perm/lead__city_perm.css);
-@import url(../blocks/lead/__ellipse/_perm/lead__ellipse_perm.css);
-@import url(../blocks/lead/__city/_tyumen/lead__city_tyumen.css);
-@import url(../blocks/lead/__ellipse/_tyumen/lead__ellipse_tyumen.css);
+
+
+
+

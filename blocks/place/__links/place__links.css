@@ -1,3 +1,4 @@
 .place__links{
   align-self: flex-end;
+  max-width: 456px;
 }
