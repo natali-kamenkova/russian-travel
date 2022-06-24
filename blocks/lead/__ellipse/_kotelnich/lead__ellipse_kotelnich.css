@@ -1,0 +1,28 @@
+.lead__ellipse_kotelnich{
+  position: absolute;
+  top: 273.7px;
+  left: 429.26px;
+  background-color: #738f8c;
+  border-radius: 50%;
+}
+
+@media screen and (max-width: 1024px) {
+  .lead__ellipse_kotelnich{
+    top: 258.12px;
+    left: 404.83px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .lead__ellipse_kotelnich{
+    top: 213.62px;
+    left: 335.03px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .lead__ellipse_kotelnich{
+    top: 89.01px;
+    left: 139.6px;
+  }
+}

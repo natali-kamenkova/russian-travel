@@ -1,5 +1,31 @@
-.lead__ellipse_tver{
+.lead__ellipse_tver {
   position: absolute;
-  top: 43.51%;
-  left: 23.7%;
+ /* top: 43.51%;
+  left: 23.7%;*/
+  top: 267.59px;
+  left: 231.04px;
+  background-color: #495648;
+  border-radius: 50%;
+}
+
+@media screen and (max-width: 1024px) {
+  .lead__ellipse_tver{
+    top: 252.36px;
+    left: 217.89px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .lead__ellipse_tver {
+    top: 208.85px;
+    left: 180.32px;
+  }
+}
+
+
+@media screen and (max-width: 320px) {
+  .lead__ellipse_tver{
+    top: 87.02px;
+    left: 75.13px;
+  }
 }

@@ -19,6 +19,8 @@
 
 @media screen and (max-width: 650px) {
   .lead__city_novgorod{
-    width: 21.41px;
+    max-width: 21.41px;
+    max-height: 8.67px;
+
   }
 }

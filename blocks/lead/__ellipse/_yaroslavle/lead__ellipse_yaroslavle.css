@@ -1,13 +1,15 @@
 .lead__ellipse_yaroslavle{
   position: absolute;
-  top: 47.2%;
-  left: 26.76%;
+  top: 293.03px;
+  left: 263.35px;
+  background-color: #47443e;
+  border-radius: 50%;
 }
 
 @media screen and (max-width: 1024px) {
   .lead__ellipse_yaroslavle{
-    top: 46%;
-    left: 26.9%;
+    top: 276.35px;
+    left: 248.36px;
     
   }
 }
@@ -15,26 +17,25 @@
 
 @media screen and (max-width: 768px) {
   .lead__ellipse_yaroslavle{
-    top: 46%;
-    left: 27.42%;
+    top: 228.71px;
+    left: 205.54px;
     
   }
 }
-
+/*
 @media screen and (max-width: 550px) {
   .lead__ellipse_yaroslavle{
     top: 46%;
     left: 27%;
     
   }
-}
+}*/
 
 @media screen and (max-width: 320px) {
   .lead__ellipse_yaroslavle{
-    top: 46%;
-    left: 26.5%;
-    
-  }
+    top: 95.29px;
+    left: 85.64px;
+      }
 }
 
 

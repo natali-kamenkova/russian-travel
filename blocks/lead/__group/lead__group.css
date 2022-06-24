@@ -1,9 +1,37 @@
 .lead__group {
   /*max-width: 937.09px;*/
-  width: 95.232%;
+  max-width: 937.09px;
+  max-height: 262.99px;
   position: absolute;
-  top: 14.688%;
-  left: 2.365%;
+  top: 90.21px;
+  left: 23.27px;
   opacity: 0.09;
 }
 
+@media screen and (max-width: 1024px) {
+  .lead__group{
+    /*max-width: 883.76px;*/
+    width: 94.956%;
+    max-height: 248.02px;
+    top: 85.07px;
+    left: 21.95px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .lead__group{
+    max-width: 731.38px;
+    max-height: 205.26px;
+    top: 70.41px;
+    left: 18.16px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .lead__group{
+    max-width: 304.74px;
+    max-height: 85.53px;
+    top: 29.34px;
+    left: 7.57px;
+  }
+}

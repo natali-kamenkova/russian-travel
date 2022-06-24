@@ -12,12 +12,12 @@
 
 @media screen and (max-width: 768px) {
   .lead__ellipse {
-    width: 5.45px;
+   width: 5.45px;
     height: 6.35px;
   }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 320px) {
 
   .lead__ellipse {
     width: 2.27px;

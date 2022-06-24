@@ -27,7 +27,6 @@
 @import url(../blocks/place/__title/place__title.css);
 @import url(../blocks/place/__url/place__url.css);
 @import url(../blocks/place/__link/place__link.css);
-@import url(../blocks/place/__paragraph/place__paragraph.css);
 @import url(../blocks/place/__links/place__links.css);
 @import url(../blocks/place/__image/place__image.css);
 @import url(../blocks/place/__item-image/place__item-image.css);
@@ -35,7 +34,6 @@
 @import url(../blocks/cover/cover.css);
 @import url(../blocks/cover/__item/cover__item.css);
 @import url(../blocks/cover/__title/cover__title.css);
-@import url(../blocks/cover/__title-link/cover__title-link.css);
 @import url(../blocks/cover/__subtitle/cover__subtitle.css);
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__links/footer__links.css);
@@ -59,4 +57,12 @@
 @import url(../blocks/lead/__city/_manturovo/lead__city_manturovo.css);
 @import url(../blocks/lead/__ellipse/_manturovo/lead__ellipse_manturovo.css);
 @import url(../blocks/header/__lang-links/header__lang-links.css);
-
+@import url(../blocks/cover/__link/cover__link.css);
+@import url(../blocks/lead/__city/_kotelnich/lead__city_kotelnich.css);
+@import url(../blocks/lead/__ellipse/_kotelnich/lead__ellipse_kotelnich.css);
+@import url(../blocks/lead/__city/_glazov/lead__city_glazov.css);
+@import url(../blocks/lead/__ellipse/_glazov/lead__ellipse_glazov.css);
+@import url(../blocks/lead/__city/_perm/lead__city_perm.css);
+@import url(../blocks/lead/__ellipse/_perm/lead__ellipse_perm.css);
+@import url(../blocks/lead/__city/_tyumen/lead__city_tyumen.css);
+@import url(../blocks/lead/__ellipse/_tyumen/lead__ellipse_tyumen.css);

@@ -1,13 +1,30 @@
 .lead__ellipse_pskov {
   position: absolute;
-  top: 34.9%;
-  left: 4.2%;
+ /* top: 34.9%;
+  left: 4.2%;*/
+  top: 219.7px;
+  left: 37px;
+  background-color: #131313;
+  border-radius: 50%;
 }
 
-@media screen and (max-width: 375px) {
-  .lead__ellipse_pskov{
-    top: 34.9%;
-   left: 3.9%;
+@media screen and (max-width: 1024px) {
+  .lead__ellipse_pskov {
+    top: 207.2px;
+    left: 34.89px;
   }
 }
 
+@media screen and (max-width: 768px) {
+  .lead__ellipse_pskov {
+    top: 171.47px;
+    left: 28.88px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .lead__ellipse_pskov {
+    top: 71.45px;
+    left: 12.03px;
+  }
+}

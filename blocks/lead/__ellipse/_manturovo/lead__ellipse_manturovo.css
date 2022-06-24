@@ -1,13 +1,21 @@
 .lead__ellipse_manturovo{
   position: absolute;
-  top: 38.05%;
-  left: 36.2%;
+  top: 234.01px;
+  left: 351.54px;
+  background-color: #93a47c;
+}
+
+@media screen and (max-width: 1024px) {
+  .lead__ellipse_manturovo{
+    top: 220.69px;
+    left: 331.54px;
+  }
 }
 
 @media screen and (max-width: 768px) {
   .lead__ellipse_manturovo{
-    
-    left: 36.5%;
+    top: 182.64px;
+    left: 274.38px;
   }
   
 
@@ -15,7 +23,8 @@
 
 @media screen and (max-width: 320px) {
   .lead__ellipse_manturovo{
-    left: 37%;
+    left: 114.32px;
+    top: 76.1px;
   }
   
 }

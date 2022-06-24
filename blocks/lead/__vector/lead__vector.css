@@ -1,13 +1,36 @@
 .lead__vector{
   position: absolute;
-  top: 20.81%;
-  left: 4.217%;
-  max-width: 90.04%;
+ /* top: 20.81%;
+  left: 4.217%;*/
+  max-width: 886px;
+  max-height: 224.59px;
+  top: 128.61px;
+  left: 41.5px;
 
 }
-/*@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1024px) {
   .lead__vector{
+   max-width: 835.58px;
+   max-height: 211.81px;
     top: 121.29px;
     left: 39.14px;
   }
-}*/
+}
+
+@media screen and (max-width: 768px) {
+  .lead__vector{
+    max-width: 691.51px;
+    max-height: 175.29px;
+    top: 100.38px;
+    left: 32.39px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .lead__vector{
+    max-width: 288.13px;
+    max-height: 73.04px;
+    top: 41.83px;
+    left: 11.5px;
+  }
+}

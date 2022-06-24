@@ -1,4 +1,5 @@
 .place__url {
+  text-transform: uppercase;
   max-width: 456px;
   font-weight: 400;
   font-size: 12px;

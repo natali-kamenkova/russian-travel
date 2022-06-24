@@ -3,6 +3,7 @@
   max-height: max-content;
   margin-top: 92px;
   margin-bottom: 92px;
+
 }
 
 @media screen and (max-width: 768px) {
@@ -13,6 +14,14 @@
   }
   
 }
+/*
+@media screen and (max-width: 680px) {
+  .intro{
+    max-width: 680px;
+    margin: 0 auto;
+  }
+}
+*/
 
 @media screen and (max-width: 320px) {
   .intro{

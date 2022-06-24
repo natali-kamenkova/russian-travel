@@ -1,0 +1,34 @@
+.lead__city_kotelnich {
+  max-width: 84.41px;
+  max-height: 8.71px;
+  position: absolute;
+  top: 255.39px;
+  left: 415.31px;
+}
+
+@media screen and (max-width: 1024px) {
+  .lead__city_kotelnich {
+    max-width: 79.61px;
+    max-height: 8.21px;
+    top: 240.86px;
+    left: 391.68px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .lead__city_kotelnich {
+    max-width: 65.88px;
+    max-height: 6.8px;
+    top: 199.33px;
+    left: 324.15px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .lead__city_kotelnich {
+    max-width: 27.45px;
+    max-height: 2.83px;
+    top: 83.05px;
+    left: 135.06px;
+  }
+}

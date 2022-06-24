@@ -1,0 +1,28 @@
+.lead__ellipse_glazov{
+  position: absolute;
+  top: 301.17px;
+  left: 531.43px;
+  background-color: #789186;
+  border-radius: 50%;
+}
+
+@media screen and (max-width: 1024px) {
+  .lead__ellipse_glazov{
+    top: 284.03px;
+    left: 501.17px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .lead__ellipse_glazov{
+    top: 235.06px;
+    left: 414.77px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .lead__ellipse_glazov{
+    top: 97.94px;
+    left: 172.82px;
+  }
+}

@@ -1,6 +1,7 @@
 .wrap{
   max-width: 984px;
   margin: 0 auto;
+  
 }
 
 @media screen and (max-width: 1024px) {
@@ -9,16 +10,16 @@
   }
 }
 
-@media screen and (max-width: 928px) {
+@media screen and (max-width: 768px) {
   .wrap{
-    width: 100%;
+    max-width: 768px;
   }
 }
-/*
+
 @media screen and (max-width: 320px) {
   .wrap{
-    max-width: 288px;
+    max-width: 320px;
     margin: 0 auto;
   }
   
-}*/
+}

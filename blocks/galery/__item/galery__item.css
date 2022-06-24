@@ -1,19 +1,21 @@
 .galery__item{
-  max-width: 284px;
-  min-height: 216px;
+ max-width: 284px;
+  max-height: 213px;
 }
 
 @media screen and (max-width: 1024px) {
   .galery__item{
-   max-width: fit-content;
-
+   max-width: 300px;
+   max-height: 225px;
   }
 }
 
 @media screen and (max-width: 768px) {
   .galery__item{
+    
     max-width: 352px;
-    height: 264px;
+    max-height: 264px;
+  
   }
 }
 
@@ -24,5 +26,5 @@
     height: 216px;
   }
 }
-
+*/
 

@@ -1,24 +1,37 @@
-.lead__city_tver{
-  width: 37.11px;
+.lead__city_tver {
+  max-width: 37.11px;
+  max-height: 8.48px;
   position: absolute;
-  top: 43.44%;
-  left: 18.5%;
+  /*top: 43.44%;
+  left: 18.5%;*/
+  top: 267.16px;
+  left: 186.48px;
 }
 
 @media screen and (max-width: 1024px) {
-  .lead__city_tver{
-    width: 35px;
-
-  }
-}@media screen and (max-width: 768px) {
-  .lead__city_tver{
-    width: 28.96px;
+  .lead__city_tver {
+    max-width: 35.79px;
+    max-height: 7.99px;
+    top: 251.95px;
+    left: 175.87px;
   }
 }
 
-@media screen and (max-width: 600px) {
-  .lead__city_tver{
-    width: 12.07px;
+
+@media screen and (max-width: 768px) {
+  .lead__city_tver {
+    max-width: 28.96px;
+    max-height: 6.61px;
+    top: 208.51px;
+    left: 145.55px;
   }
 }
 
+@media screen and (max-width: 320px) {
+  .lead__city_tver {
+    max-width: 12.07px;
+    max-height: 2.76px;
+    top: 86.66px;
+    left: 60.64px;
+  }
+}
