@@ -1,4 +1,4 @@
-.footer__autor{
+.footer__author{
   margin: 0;
   font-weight: 400;
   font-size: 14px;
@@ -7,8 +7,9 @@
 }
 
 @media screen and (max-width: 700px) {
-  .footer__autor{
+  .footer__author{
     box-sizing: border-box;
     padding-top: 48px;
+    
   }
 }

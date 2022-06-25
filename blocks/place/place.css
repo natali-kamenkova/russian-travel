@@ -42,7 +42,7 @@
  
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 375px) {
   .place {
     max-width: 320px;
     display: block;

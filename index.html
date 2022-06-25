@@ -8,48 +8,47 @@
   <title>Путешествия по России</title>
   <link rel="stylesheet" href="./pages/index.css">
 </head>
-<body>
+
+<body class="body">
   <div class="page">
     <header class="header">
       <div class="header__logo"><img class="header__logo" src="./images/__logo.svg" alt="лого"></div>
-      <nav class="header__lang-links">
+      <div class="header__lang-links">
         <a href="#" class="header__lang-link header__lang-link_active">Ru</a>
-        <a href="#" class="header__lang-link header__lang-link_active">En</a>
-      </nav>
+        <a href="#" class="header__lang-link">En</a>
+      </div>
     </header>
     <main class="content">
-      <div class="wrap">
-        <section class="lead">
-          <h1 class="lead__title">Путешествия по&nbsp;России</h1>
-          <p class="lead__subtitle">Настоящая страна не в выпусках новостей, а здесь.</p>
-          <div>
-            <img class="lead__illustration" src="./images/__image.svg" alt="девушка в поезде">
-          </div>
-          <p class="lead__caption">ваша полка — верхняя</p>
-        </section>
-        <section class="intro">
-          <h2 class="intro__title">Чего мы там не видели?</h2>
-          <p class="intro__text">По опросам ВЦИОМ, 95% россиян мечтают куда-нибудь поехать, но только 36% планируют
-            провести отпуск в родной стране. Мол, чего мы тут, дома, не видели? На самом деле, Россия — это целая
-            вселенная с ласковым морем юга,
-            густыми лесами Саян и суровыми льдами плато Путорана. А ещё увидеть все эти красоты можно без миллионов на
-            счету, загранпаспорта
-            и многочасовых перелетов. Как, например, Вера Башмакова — смелая молодая мама, которая взяла в охапку
-            троих детей, усадила их в свою
-            «Ладу» и проехала 20 тысяч километров по родной стране. Мы выбрали и описали некоторые интересные места,
-            достойные вашего отпуска.
-          </p>
-          <ul class="intro__list">
-            <li class="intro__iteam">Часовых поясов<span class="intro__number"> 11</span> </li>
-            <li class="intro__iteam">Объектов природного наследия ЮНЕСКО <span class="intro__number">12</span>
-            </li>
-            <li class="intro__iteam">Объектов культурного наследия ЮНЕСКО <span class="intro__number">16</span>
-            </li>
-            <li class="intro__iteam">Природных заповедников <span class="intro__number">105</span> </li>
-            <li class="intro__iteam">Аэропортов <span class="intro__number">241</span> </li>
-          </ul>
-        </section>
-      </div>
+      <section class="lead">
+        <h1 class="lead__title">Путешествия по&nbsp;России</h1>
+        <p class="lead__subtitle">Настоящая страна не в выпусках новостей, а здесь.</p>
+
+        <img class="lead__illustration" src="./images/imageaaa.jpg" alt="девушка в поезде">
+
+        <p class="lead__caption">ваша полка — верхняя</p>
+      </section>
+      <section class="intro">
+        <h2 class="intro__title">Чего мы там не видели?</h2>
+        <p class="intro__text">По опросам ВЦИОМ, 95% россиян мечтают куда-нибудь поехать, но только 36% планируют
+          провести отпуск в родной стране. Мол, чего мы тут, дома, не видели? На самом деле, Россия — это целая
+          вселенная с ласковым морем юга,
+          густыми лесами Саян и суровыми льдами плато Путорана. А ещё увидеть все эти красоты можно без миллионов на
+          счету, загранпаспорта
+          и многочасовых перелетов. Как, например, Вера Башмакова — смелая молодая мама, которая взяла в охапку
+          троих детей, усадила их в свою
+          «Ладу» и проехала 20 тысяч километров по родной стране. Мы выбрали и описали некоторые интересные места,
+          достойные вашего отпуска.
+        </p>
+        <ul class="intro__list">
+          <li class="intro__item">Часовых поясов<span class="intro__number"> 11</span> </li>
+          <li class="intro__item">Объектов природного наследия ЮНЕСКО <span class="intro__number">12</span>
+          </li>
+          <li class="intro__item">Объектов культурного наследия ЮНЕСКО <span class="intro__number">16</span>
+          </li>
+          <li class="intro__item">Природных заповедников <span class="intro__number">105</span> </li>
+          <li class="intro__item">Аэропортов <span class="intro__number">241</span> </li>
+        </ul>
+      </section>
       <section class="photo-grid">
         <div class="galery">
           <div class="galery__item"><img class="galery__image" src="./images/__item.jpg" alt="вид из окна поезда">
@@ -176,13 +175,11 @@
         </div>
       </section>
       <section class="cover">
-        <div class="cover__item">
-          <a class="cover__link" href="https://stampsy.com/na-elektrichkakh-do-baikala">
-            <h2 class="cover__title">До&nbsp;Байкала «на&nbsp;собаках»</h2>
-            <p class="cover__subtitle">По мотивам учебной темы о&nbsp;Транссибе&nbsp;— путешествие от столицы до Байкала
-              на электричках.</p>
-          </a>
-        </div>
+        <a class="cover__link" href="https://stampsy.com/na-elektrichkakh-do-baikala">
+          <h2 class="cover__title">До&nbsp;Байкала «на&nbsp;собаках»</h2>
+          <p class="cover__subtitle">По мотивам учебной темы о&nbsp;Транссибе&nbsp;— путешествие от столицы до Байкала
+            на электричках.</p>
+        </a>
       </section>
     </main>
     <footer class="footer">
@@ -194,9 +191,10 @@
           <a class="footer__link" href="https://calendar.yandex.ru">Календарь</a>
           <a class="footer__link" href=" https://travel.yandex.ru">Путешествия</a>
         </nav>
-        <p class="footer__autor">© 2022. Каменкова Наталья</p>
+        <p class="footer__author">© 2022. Каменкова Наталья</p>
       </div>
     </footer>
   </div>
 </body>
+
 </html>
