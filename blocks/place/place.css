@@ -39,10 +39,10 @@
     margin-bottom: 73px;
   }
 
- 
+
 }
 
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 400px) {
   .place {
     max-width: 320px;
     display: block;

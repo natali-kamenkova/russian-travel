@@ -4,7 +4,7 @@
   margin: 0 auto;
   margin-bottom: 92px;
   background-image: url(./../../images/background.jpg);
-  min-height: 740px;
+ 
   display: flex;
   /*flex-direction: column;*/
   justify-content: center;
@@ -41,20 +41,19 @@
     
   }
 }
-/*
+
 @media screen and (max-width: 768px) {
   .cover {
     max-width: 768px;
-    min-width: 320px;
-    min-height: 480px;
+        min-height: 480px;
     margin-bottom: 88px;
   }
 }
 
 @media screen and (max-width: 320px) {
   .cover {
-    max-height: 200px;
+    min-height: 200px;
     max-width: 320px;
     margin-bottom: 64px;
   }
-}*/
+}

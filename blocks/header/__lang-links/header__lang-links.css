@@ -2,5 +2,7 @@
   margin: 0;
   padding: 0;
   display: flex;
+  margin-bottom: 7px;
+ /*align-self: center;*/
   gap: 18px;
 }

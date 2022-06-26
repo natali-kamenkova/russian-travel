@@ -18,7 +18,7 @@
   }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 769px) {
   .galery {
     max-width: 720px;
     grid-template-columns: repeat(2, 1fr);

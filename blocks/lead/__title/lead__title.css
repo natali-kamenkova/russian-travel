@@ -9,12 +9,14 @@
   margin: 0 auto;
   margin-bottom: 32px;
 }
-
+/*
 @media screen and (max-width: 768px) {
   .lead__title {
     width: 93.33%;
+    font-size: 40px;
+    line-height: 44px;
   }
-}
+}*/
 
 @media screen and (max-width: 720px) {
   .lead__title {
@@ -31,10 +33,10 @@
   }
 
 }
-
+/*
 @media screen and (max-width: 320px) {
   .lead__title{
     font-size: 28px;
     width: 100%;
   }
-}
+}*/

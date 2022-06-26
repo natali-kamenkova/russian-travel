@@ -20,6 +20,9 @@
   .place__text:first-of-type {
     margin-bottom: 25px;
   }
+  .place__text:last-of-type{
+    margin-bottom: 0;
+  }
 
 }
 

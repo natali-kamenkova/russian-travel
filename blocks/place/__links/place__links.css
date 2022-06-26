@@ -2,3 +2,11 @@
   align-self: flex-end;
   max-width: 456px;
 }
+
+@media screen and (max-width: 470px) {
+  .place__links{
+  /*  max-width: 288px;
+    margin: 0 auto;*/
+    margin-bottom: 32px;
+  }
+}
