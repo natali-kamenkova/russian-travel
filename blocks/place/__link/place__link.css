@@ -1,5 +1,5 @@
 .place__link {
- /* max-width: 456px;*/
+  /* max-width: 456px;*/
   font-weight: 400;
   font-size: 18px;
   line-height: 22px;
@@ -12,17 +12,17 @@
   opacity: 0.8;
 }
 
-@media screen and (max-width: 470px){
-  .place__link{
+@media screen and (max-width: 470px) {
+  .place__link {
     font-size: 14px;
     max-width: 180px;
-   
+
   }
 }
 
-@media screen and (max-width: 320px){
-  .place__link{
-   max-width: 288px;
+@media screen and (max-width: 320px) {
+  .place__link {
+    max-width: 288px;
     font-size: 18px;
     margin: 0 auto;
     margin-bottom: 32px;

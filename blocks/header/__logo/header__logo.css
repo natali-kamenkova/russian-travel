@@ -1,13 +1,13 @@
-.header__logo{
+.header__logo {
   max-width: 176px;
   height: 52px;
   align-self: flex-start;
 }
 
 @media screen and (max-width: 350px) {
-  .header__logo{
+  .header__logo {
     width: 142px;
     height: 42px;
   }
-  
+
 }
