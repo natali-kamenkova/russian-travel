@@ -20,15 +20,12 @@
 @media screen and (max-width: 700px) {
   .footer__links {
     display: grid;
-    grid-template-columns: 186px;
     margin-left: 18px;
   }
 }
 
 @media screen and (max-width: 320px) {
   .footer__links {
-    max-width: 186px;
-    min-height: 310px;
     margin-left: 16px;
   }
 }
