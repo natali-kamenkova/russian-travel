@@ -46,9 +46,7 @@
   .place {
     max-width: 320px;
     display: block;
-    margin: 0 auto 50px;
-    
-
+    margin-bottom: 50px;
   }
 
   .place:last-of-type {
