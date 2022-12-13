@@ -1,6 +1,6 @@
-Проект: Путешествие по России
-Figma
-верстка макета
-технологии - GRID, Flex.
+Project: Traveling in Russia
+Figma layout
+technologies - GRID, Flex.
+HTML, CSS
 https://natali-kamenkova.github.io/russian-travel/#
 
